@@ -1,0 +1,27 @@
+body{
+    width: 500px;
+    border: 1px solid red;
+    min-height: 400px;
+    margin: auto;
+    background-color: antiquewhite;
+}
+.list{
+    padding: 10px;
+}
+.list input{
+    width: 100%;
+    margin-bottom: 10px;
+}
+.btn{
+    background-color: black;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 7px;
+}
+ol{
+    padding-left: 15px;
+    font-size: 1rem;
+}
+ol a{
+    text-decoration: none;
+}
